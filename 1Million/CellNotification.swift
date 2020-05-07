@@ -3,7 +3,7 @@
 //  1Million
 //
 //  Created by Ahmed on 3/30/20.
-//  Copyright © 2020 Khaled Ghoniem. All rights reserved.
+//  Copyright © 2020 Ahmed. All rights reserved.
 //
 
 import UIKit
